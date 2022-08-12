@@ -68,3 +68,15 @@ h1{
     position: relative;
     z-index: 1;
 }
+#cta{
+ text-align: center
+}
+.bottom-container{
+    text-align: center;
+    padding-top: 10px;
+    height: 100px;
+  background-color: #66BFBF;
+};
+.btn:hover{
+    color: rgb(10, 21, 17);
+}
